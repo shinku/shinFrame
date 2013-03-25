@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="Shin.MEManager.MEGC"/>
+    <classEntry path="Shin.ShinUI.File.LocalFile"/>
+    <classEntry path="Shin.UIManager.UIManagerBasedOnStage"/>
+    <classEntry path="Shin.Interfaces.IFit"/>
+    <classEntry path="Shin.RexLabs.REGX"/>
+    <classEntry path="Shin.ShinNet.NAVI"/>
+    <classEntry path="Shin.Security.Encryption.MD5"/>
+    <classEntry path="Shin.Security.Encryption.IntUtil"/>
+    <classEntry path="Shin.ShinControls.picSizeChanger"/>
+    <classEntry path="Shin.ShinUI.toolbar"/>
+    <classEntry path="Shin.ShinUI.VerticalToolBar"/>
+    <classEntry path="Shin.ShinControls.Marquee"/>
+    <classEntry path="Shin.ShinControls.controlTools.marqueeOption"/>
+    <classEntry path="Shin.ShinControls.MarQueeManager"/>
+    <classEntry path="Shin.ShinControls.mouseOverAndPlayControler"/>
+    <classEntry path="Shin.Data.LoaderLab"/>
+    <classEntry path="Shin.Data.labContent"/>
+    <classEntry path="Shin.FrameEvent.ShinEvent"/>
+    <classEntry path="Shin.ShinUI.buttonUI.btnOp"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
